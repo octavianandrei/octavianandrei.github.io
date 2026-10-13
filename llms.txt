@@ -1,0 +1,20 @@
+# Octavian — DevOps & SRE Consulting
+
+> Independent consulting for DevOps, site reliability, cloud infrastructure, CI/CD, agentic workflows, and migrations. Remote collaboration worldwide.
+
+## Services
+
+- [CI/CD Automation & GitOps Consulting](https://octavianandrei.github.io/services/cicd-automation/): CI/CD consulting for repeatable releases: GitHub Actions, GitLab CI, GitOps, deployment checks, environment promotion, and rollback planning.
+- [Cloud Infrastructure & Platform Engineering](https://octavianandrei.github.io/services/cloud-platform-engineering/): Cloud and platform engineering services for infrastructure as code, Kubernetes, Docker, Terraform, OpenTofu, and consistent developer environments.
+- [SRE & Observability Consulting](https://octavianandrei.github.io/services/sre-observability/): SRE and observability consulting: service objectives, OpenTelemetry, Prometheus, Grafana, actionable alerts, incident runbooks, and reliability reviews.
+- [Agentic AI & Workflow Automation Services](https://octavianandrei.github.io/services/agentic-automation/): Agentic AI automation for engineering teams: repository maintenance, operational triage, MCP integrations, scoped access, review gates, and evaluation.
+- [Cloud Migration & Modernization Services](https://octavianandrei.github.io/services/cloud-migrations/): Cloud migration and modernization services: dependency assessment, containerization, rehearsed cutovers, data validation, rollback, and operational handover.
+- [DevSecOps & Cloud Cost Optimization](https://octavianandrei.github.io/services/devsecops-cloud-cost/): DevSecOps and cloud cost optimization services: least privilege, secrets management, supply chain checks, resource usage reviews, and engineering guardrails.
+
+## Contact
+
+- [LinkedIn](https://www.linkedin.com/in/oga28/)
+- [WhatsApp](https://wa.me/40775696632)
+- [GitHub](https://github.com/octavianandrei)
+
+The linked HTML service pages are the authoritative descriptions. Scope and deliverables are agreed per project. This file is a convenience summary, not an indexing guarantee.

@@ -13,7 +13,11 @@ The public site is https://octavianandrei.github.io/.
 - LinkedIn and WhatsApp contact links supplied by the site owner.
 - A public IndexNow ownership key file. This is a public URL-verification token by design, not a private API credential.
 
-## Google Search Console: account step
+## Google Search Console
+
+Ownership was verified with an HTML meta tag on October 13, 2026. Google accepted the homepage indexing request into its priority crawl queue. Keep the verification meta tag in `index.html`. The sitemap was submitted; processing status should be checked in Search Console. The steps below document the setup for future reference.
+
+### Setup reference
 
 1. Sign in at https://search.google.com/search-console/.
 2. Add a **URL prefix** property: `https://octavianandrei.github.io/`. GitHub controls the github.io domain, so use the URL prefix rather than DNS verification for that domain.
@@ -22,7 +26,11 @@ The public site is https://octavianandrei.github.io/.
 5. Submit `https://octavianandrei.github.io/sitemap.xml` in **Sitemaps**.
 6. Inspect the homepage URL and request indexing. Review indexing and search performance as data becomes available.
 
-## Bing Webmaster Tools: account step
+## Bing / IndexNow
+
+All seven canonical URLs were submitted to Bing’s IndexNow endpoint on October 13, 2026. The response was HTTP 202: URLs received, ownership-key validation pending. This does not confirm indexing.
+
+### Webmaster Tools account
 
 Sign in at https://www.bing.com/webmasters/ and add the same site. Import the verified Search Console property if offered, or use the exact XML file or meta tag Bing provides. Submit the sitemap. IndexNow notifications do not create or verify a Webmaster Tools account property.
 
